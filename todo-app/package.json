@@ -1,0 +1,16 @@
+{
+  "name": "crudted",
+  "version": "1.0.0",
+  "description": "Simple CRUD web application using node.js, angular.js and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Seung Min Cho",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
